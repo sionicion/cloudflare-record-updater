@@ -1,3 +1,5 @@
+> :warning: **Deprecated**: Application rewritten in Go, see [cloudflare-dns-updater](https://github.com/sionicion/cloudflare-dns-updater).
+
 # Cloudflare Record Updater
 
 Update simple Cloudflare DNS records
